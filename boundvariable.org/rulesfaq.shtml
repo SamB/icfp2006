@@ -1,0 +1,311 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>ICFP Programming Contest, 2006 : Rules and FAQ</title>
+<link rel="stylesheet" type="text/css" href="icfp.css" title="ICFP" />
+
+</head>
+<body style="background: #123456">
+
+<div style="align: center ; width: 600px ; padding: 0px ; margin : 0px">
+<!-- header -->
+<div style="padding : 4px ; width: 600px ; background : #234567 ; border: 1px solid #012345">
+<div class="headingsmall">Ninth annual</div><div class="heading">ICFP&nbsp;Programming&nbsp;Contest</div>
+<div style="font-size : 10px ; padding : 1px ; color : #AAAACC ; background : #2A4C6F ; text-align : right ; margin-top : -4px ">Hosted by <a href="http://www.cs.cmu.edu/" style="text-decoration : none ; font-weight : normal">Carnegie Mellon University</a>'s <a style="text-decoration: none ; font-weight : normal" href="http://www.cs.cmu.edu/afs/cs/Web/Groups/pop/pop.html">POP Group</a></div>
+</div>
+
+
+<!-- sidebar -->
+<table border="0" cellpadding="0" cellspacing="0" style="border : 0px ; margin : 0px ; padding : 0px">
+<tr><td valign="top">
+<div class="sidebar">
+<a class="button" href="/index.shtml">Home</a>
+<a class="button" href="/task.shtml">Task</a>
+<a class="button" href="/rulesfaq.shtml">Rules/FAQ</a>
+<!--
+<a class="button" href="/register.shtml">Register</a>
+-->
+<a class="button" href="/teams.shtml">Teams</a>
+<a class="button" href="/scoreboard.shtml">Scoreboard</a>
+<a class="button" href="/code.shtml">Source&nbsp;Code</a>
+<!--
+<a class="button" href="/submit.shtml">Submit</a>
+<a class="button" href="/results.shtml">Results</a>
+-->
+<a class="button" href="/contact.shtml">Contact</a>
+<a class="button" href="/previous.shtml">Past&nbsp;Years</a>
+</div>
+
+</td>
+<!-- content area -->
+<td valign="top">
+<div class="content">
+<h1>Post-Contest Information</h1>
+
+
+<div style="margin : 12px ; text-align : justify ; background : #345678 ; border : 1px dashed #89ABCD ; padding : 6px">
+  The contest has ended, but many people have found the task to be
+  interesting and fun to complete even when not competing for a
+  prize. The publications mentioned in the <a href="task.shtml">task
+  description</a> cannot be validated online or counted on the
+  scoreboard. However, it is possible to validate publications and
+  tally your score offline, using a program that can be discovered
+  somewhere within the codex.  </div>
+
+<h1>Rules</h1>
+
+<p>What follows are the official rules for the contest.</p>
+
+<h2>Dates and Times</h2><a name="dates"></a>
+
+<p>The contest will run from July&nbsp;21 to July&nbsp;24, 2006. The contest
+task was announced at 12:00 (noon) EDT on Friday, and we will
+accept entries until 12:00 (noon) EDT on Monday. 
+
+<h2>Teams</h2><a name="teams"></a>
+
+<p>This is an open contest. There is no entry fee or need to
+pre-register and everyone (with the exception of faculty, students,
+and staff of Carnegie Mellon University) is eligible. Teams may work
+from any location.</p>
+
+<p>A team consists of every person who contributes ideas or code
+towards a submission. Individuals may only be members of a single team
+and teams may not divide or collaborate with each other once the
+contest has begun.</p>
+
+<p>For this contest there will be two divisions: One for <b>small
+teams</b> and one for <b>large teams</b>. A small team consists of
+0&ndash;4 persons. A large team may have any number of members. Teams
+may switch from the small team division to the large team division at
+any time (even once the contest has begun) if they wish to take on new
+members. Large teams are not eligible for the first place prize, but
+otherwise the two divisions are identical.
+
+<h2>Language and tools</h2>
+
+<p>Teams may work in any programming language(s) that they wish. They may
+employ any computational resources at their disposal.</p>
+
+<h2>Prizes</h2>
+
+<p>There will be four prizes: First, second, and third place, as well
+as a discretionary judges' prize. Prize money totaling $1750 US will
+be awarded to help defray the costs of travel to the contest for the
+winners and for small cash prizes. In addition, the organizers will
+declare during the conference that 
+
+<ul>
+ <li>The first place team's language is <i>the programming language of choice for discriminating hackers</i>,</li>
+ <li>the second place team's language is <i>a fine tool for many applications</i>,
+ <li>the third place team's language is <i>not too shabby</i>,
+ <li>and the team winning the judge's prize is <i>an extremely cool bunch of hackers</i>.
+</ul>
+
+<h1>Contest-Specific Rules</h1>
+
+<ul>
+
+<li>Instructions:
+<ul>
+<!-- <li><a href="/register.shtml">Register</a> to receive a decryption key.</li> -->
+ <li>Register to receive a decryption key.</li>
+ <li>Download the codex and the UM specification.</li>
+ <li>Implement the UM and run the codex.</li>
+ <li>Supply the decryption key you received from us.</li>
+<!-- <li>Obtain publications and <a href="http://www.icfpcontest.org/submit.shtml">submit them</a>.</li> -->
+ <li>Obtain publications and submit them.</li>
+</ul></li>
+
+<li>
+  The team with most points after three days wins.  Earlier time of
+  final publication will be used to break ties, where each team's
+  final publication is the last submitted publication that increases
+  their score.
+</li>
+
+<li>
+  Retain your source code.  Top ranking teams will be required to
+  submit their source code for peer review.  After the contest, teams
+  that wish to be considered for the Judges' Prize will submit their
+  source code and a brief commentary.
+</li>
+
+<li>
+  Different solutions to a given task may yield different publications
+  depending on the quality of the solution.  Better solutions will yield
+  better scoring publications.  For any given task, your final score will
+  reflect your best submitted publication.
+</li>
+
+<li>
+  A given publication will always earn the same score, regardless of when
+  it is submitted, and regardless of any submissions of other teams.
+</li>
+
+<li>
+  All participants must adhere to the spirit of the contest. For
+  example, teams that attempt to forge publications or manipulate the
+  behavior of the codex will be disqualified.
+</li>
+</ul>
+
+
+
+<h1>FAQ</h1>
+
+<ol>
+
+<!--
+already answered above.
+<li>
+Do we have to use the same language for the entire contest?
+<div class="answer">
+No, you don't.
+</div>
+</li>
+-->
+
+<li>
+If I use more than one language, and I win, what language will receive the declaration?
+<div class="answer">
+The winners may choose what language they wish to honor.
+</div>
+</li>
+
+<li>
+Can I submit more than one publication for a given task?  Will that affect my
+score?
+<div class="answer">
+  Yes, you can.  Submitting a valid publication will never decrease
+  your score.  For some tasks you can improve your score by submitting
+  an improved publication.  Re-submitting an identical publication 
+  will never change your score.
+</div>
+</li>
+
+<li>
+How long is the codex supposed to take to run?
+<div class="answer">
+  We have a variety of implementations of the Universal Machine. On a
+  1 Ghz Pentium M laptop, it takes us approximately 1 minute and 40 seconds
+  to decode the codex.
+</div>
+</li>
+
+<!--
+<li>
+I accidentally registered my team twice, and got two
+different emails with team information.  What should I do?
+<div class="answer">
+  Pick one of the emails and use it consistently.
+</div>
+</li>
+-->
+
+<li>
+My UM implementation says "self-check succeeded" but fails to decrypt
+the codex.  Is there something wrong with my decryption key?
+<div class="answer">
+  No, the decryption keys are correct; there is a bug in your UM
+  implementation.  The codex self-check is not at all exhaustive.
+</div>
+</li>
+
+<li>
+What kind of reverse engineering am I allowed to do?
+<div class="answer">
+  If you're worried that something you plan to do might violate the
+  spirit of the contest, please ask us first. We have discussed some
+  specifics in a <a
+  href="http://lists.andrew.cmu.edu/pipermail/icfpcontest-announce/Week-of-Mon-20060717/000004.html">message</a>
+  to the announce list.
+</div>
+</li>
+
+<li>
+Does your web server really run UM code?
+<div class="answer">Most certainly.</div>
+</li>
+
+</ol>
+
+<h1>Known Transcription Errors</h1><a name="errata"></a>
+<p>Volume 9 of the codex contains corrections to all known
+transcription errors found in previous releases.  If you discover any
+errors, please report them to the <a
+href="contact.shtml">contest organizers</a>.
+</p>
+
+<!--
+<p>Volume 8 of the codex contains a few known errors. 
+If you discover any additional errors, please report them to
+the <a href="contact.shtml">contest organizers</a>.
+</p>
+
+<ol>
+<li>
+<p>Two lines were inadvertently omitted from the circuits spec.  
+In the definition of open characters, the paragraph which discusses
+= and ! should begin:</p>
+
+<p>The = character on the south face of a box is open to its south, and
+the = character on the north face of a box is open to its north.
+The ! character on the east side of a box is open to its east, and
+the ! character on the west side of a box is open to its west.</p>
+
+<p>This change explains why the parser rejects some programs involving
+the + character which otherwise seem to be in accord with the spec.</p>
+</li>
+
+
+<li>
+In the Balance language (user account 'yang'), a negative instruction
+speed has a curious behavior.  At each step, the new instruction pointer
+computed is 
+<span class="balance">(((IS + IP) mod 2<sup>32</sup>) mod length(CODE))</span>,
+not
+<span class="balance">((IS + IP) mod length(CODE))</span>.  
+
+A Balance Certified Professional Programmer should treat the behavior of
+<span class="balance">step_balance</span> and <span
+class="balance">certify</span> as definitive.  </li>
+
+<li> In the Balance language (user account 'yang'), the spec for the
+<span class="balance">fillmem</span> problem should give the following
+initial memory: 
+
+<pre class="twod" style="width : auto">
+a i j 0 1 2 4 8 0 0 0 0 0 . . .
+</pre>
+
+A Balance Certified Professional Programmer should treat the initial
+memory configuration of <span class="balance">certify</span> as authoritative. 
+</li>
+-->
+
+<!--
+<li>A syntax error in a 2D program can cause UMIX to crash
+gracefully. This should not affect any valid solutions. An example
+program that triggers this bug is:
+<pre class="twod" style="width : auto">
+,.....................................
+:mult                                :
+:                                    :
+:                                    :
+,....................................,
+</pre>
+The top-right character in this program should be a comma, not a period.
+</li>
+-->
+</ol>
+
+
+</div>
+</td>
+</tr></table>
+</div>
+
+</body>
+</html>

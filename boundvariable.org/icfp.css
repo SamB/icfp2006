@@ -1,0 +1,121 @@
+<style type="text/css">
+
+       body { font: 13px Verdana,Arial,Helvetica, Sans Serif ;
+              color: #EEEEEE }
+       DIV { font: 13px Verdana,Arial,Helvetica, Sans Serif ;
+	     color: #EEEEEE }
+       P { font: 13px Verdana,Arial,Helvetica, Sans Serif ;
+	   color: #EEEEEE ; text-align : justify ; padding-right : 2px ; padding-left : 2px }
+       TD { font: 13px Verdana,Arial,Helvetica, Sans Serif ;
+            color: #EEEEEE ; padding : 0px; margin : 0px }
+       FORM { font : 13px Verdana,Arial,Helvetica, Sans Serif ;
+              color : #EEEEEE }
+
+       P.boring { display:none }
+
+       A { font-weight : bold }
+       .small { font : 10px Verdana, Arial, Helvetica, Sans Serif }
+       
+       A:link { color: #CCCCFF }
+       A:visited { color: #9999FF }
+       A:active { color: #FFBBBB }
+
+       A.button { border : 1px solid #456789 ; display : block ;
+                  font : bold 17px Verdana, Arial, Helvetica, Sans Serif ;
+		  color : #FFFFFF ; margin-bottom : 4px ;
+		  padding : 2px ; text-align : center ;
+	 	  text-decoration : none ;
+		  background : #555577 ; width : 110px } 
+
+       A.button:hover { background : #AA8888 ; border-color : #999999 }
+
+       .filelink { font : bold 22px Verdana, Arial, Helvetica, Sans Serif ;
+		   color : #DDDD77 }
+
+       A.filelink:visited { color : #DDDD77 }
+       A.filelink:active  { color : #DDDD77 }
+       A.filelink:link    { color : #DDDD77 }
+
+       .hexstring { font : 12px monospace ; color : #99997777 }
+
+       SPAN.newsdate { color : #AAAAEE ; font : 10px Verdana, Arial, Helvetica, Sans Serif }
+
+       /* XXX something */
+       H1 { display : block ; background : #343456 ; padding : 2px 2px 0px 2px ; 
+	    margin : 0px ; 
+	    border-width : 1px ;
+            border-style : solid ; border-color : #233467 ;
+	    font : bold 22px Trebuchet, Trebuchet MS, Verdana, Tahoma, Helvetica, Sans Serif ; color : #FFFFCC
+	   }
+
+       H2 { font : bold 18px Trebuchet, Trebuchet MS, Verdana, Tahoma, Helvetica, Sans Serif ; color : #FFFFFF }
+
+       /* XXX emphasis */
+       span.emph { }
+
+       p.short {  text-align : left }
+
+       div.headingsmall { color : #FFFFAA ; 
+	                  font : bold 24px Trebuchet, Trebuchet MS, Verdana, Tahoma, Helvetica, Sans Serif ;
+	                  margin-bottom : -8px }
+
+       div.heading { color : #FFFFEE ; 
+	             font : bold 42px Trebuchet, Trebuchet MS, Verdana, Tahoma, Helvetica, Sans Serif ;
+	             margin : 0px }
+       div.sidebar { width : 116px ; 
+	             border : 1px solid #345678 ; 
+	             padding : 3px ; margin : 1px ;
+ 		     background : #012345}
+       div.content { width : 475px ; 
+	             border : 1px solid #012345 ;
+	             padding : 3px ; margin : 1px ;
+		
+	             background : #234567 }
+
+       ol li { padding-bottom : 24px }
+
+       div.answer { margin-left: auto; 
+		    font : italic 14px Trebuchet, Trebuchet MS, Verdana, Tahoma, Helvetica, Sans Serif ;
+		    text-align : justify ;
+		    color : #EEAAEE ;
+                    padding : 4px ; 
+                    width : 400px }
+
+       span.email { background : #2A4C6F }
+
+       span.publication { background : #2A4C6F ; font : 13px monospace ; padding : 2px ; color : #EEEEAA }
+
+       input.hidden { border : 0px ; padding : 0px ; display : none }
+
+       span.balance { color : #AAFFFF ; font : 12px monospace }
+
+       pre.twod { color : #FFFF00 }
+
+       .edittitle { font : 12px Verdana, Arial, Sans Serif ; color : #EEEE99 }
+
+       textarea { border : 1px solid #012345 ;
+                  padding : 3px ; margin : 1px }
+       input { border : 1px solid #012345 ;
+               padding : 3px ; margin : 1px }
+
+       input.publication { border : 1px solid #012345 ; height : 17px ;
+                           padding : 3px ; margin : 1px ; font : 10px monospace }
+
+       table.teamboard { width : 100% ; margin-top : 12px }
+       td.teamheader { font-weight : bold ; color : #FFFFEE }
+       td.teamproblem { width : 6em }
+       td.teamtask { }
+       td.teamscore { }
+       td.teamtotal { font-weight : bold }
+       td.teamtotalscore { }
+       tr.team0 { background : #23456F }
+       tr.team1 { background : #23455A }
+
+       table.global { width : 100% ; border : 1px solid #012345 }
+       tr.global0 { background : #23456F }
+       tr.global1 { background : #23455A }
+       td.globalhead { font-weight : bold  ; color : #FFFFAA }
+       td.globalnone { color : #789ABC }
+       td.globalteam { overflow-x : hidden }
+       td.globalrank { color : #9ABCDE }
+</style>

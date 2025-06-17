@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>ICFP Programming Contest, 2006 : Previous Contests</title>
+<link rel="stylesheet" type="text/css" href="/icfp.css" title="ICFP" />
+
+</head>
+<body style="background: #123456">
+
+<div style="align: center ; width: 600px ; padding: 0px ; margin : 0px">
+<!-- header -->
+<div style="padding : 4px ; width: 600px ; background : #234567 ; border: 1px solid #012345">
+<div class="headingsmall">Ninth annual</div><div class="heading">ICFP&nbsp;Programming&nbsp;Contest</div>
+<div style="font-size : 10px ; padding : 1px ; color : #AAAACC ; background : #2A4C6F ; text-align : right ; margin-top : -4px ">Hosted by <a href="http://www.cs.cmu.edu/" style="text-decoration : none ; font-weight : normal">Carnegie Mellon University</a>'s <a style="text-decoration: none ; font-weight : normal" href="http://www.cs.cmu.edu/afs/cs/Web/Groups/pop/pop.html">POP Group</a></div>
+</div>
+
+
+<!-- sidebar -->
+<table border="0" cellpadding="0" cellspacing="0" style="border : 0px ; margin : 0px ; padding : 0px">
+<tr><td valign="top">
+<div class="sidebar">
+<a class="button" href="/index.shtml">Home</a>
+<a class="button" href="/task.shtml">Task</a>
+<a class="button" href="/rulesfaq.shtml">Rules/FAQ</a>
+<!--
+<a class="button" href="/register.shtml">Register</a>
+-->
+<a class="button" href="/teams.shtml">Teams</a>
+<a class="button" href="/scoreboard.shtml">Scoreboard</a>
+<a class="button" href="/code.shtml">Source&nbsp;Code</a>
+<!--
+<a class="button" href="/submit.shtml">Submit</a>
+<a class="button" href="/results.shtml">Results</a>
+-->
+<a class="button" href="/contact.shtml">Contact</a>
+<a class="button" href="/previous.shtml">Past&nbsp;Years</a>
+</div>
+
+</td>
+<!-- content area -->
+<td valign="top">
+<div class="content">
+
+<h1>Previous Contests</h1>
+
+<p>The ICFP Programming Contest has been running since 1998. Here
+are some of the previous contest sites:</p> 
+
+<div style="font-size: 15px">
+<ul>
+<li><a href="http://icfpc.plt-scheme.org/">2005, organized by PLT and friends</a></li>
+<li><a href="http://www.cis.upenn.edu/proj/plclub/contest/">2004, organized by Penn</a></li>
+<li><a href="http://www.dtek.chalmers.se/groups/icfpcontest">2003, organized by Chalmers</a></li>
+<li><a href="http://icfpcontest.cse.ogi.edu">2002, organized by OGI</a></li>
+<li><a href="http://cristal.inria.fr/ICFP2001/prog-contest/">2001, organized by INRIA Rocquencourt</a></li>
+<li><a href="http://www.cs.cornell.edu/icfp/">2000, organized by Cornell and Bell Labs</a></li>
+<li><a href="http://www.eecs.harvard.edu/nr/icfp/problem.html">1999, organized by Harvard and Virginia</a></li>
+<!-- <li><a href="http://www.cs.virginia.edu/~jks6b/icfp/">1999, organized by Virginia</a></li> -->
+<li><a href="http://www.ai.mit.edu/extra/icfp-contest/">1998, organized by Universite de Montreal and MIT</a></li>
+</ul>
+</div>
+
+</div>
+</td>
+</tr></table>
+</div>
+
+</body>
+</html>

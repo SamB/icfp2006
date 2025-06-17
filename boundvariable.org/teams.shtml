@@ -1,0 +1,855 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>ICFP Programming Contest, 2006 : Teams</title>
+<link rel="stylesheet" type="text/css" href="/icfp.css" title="ICFP" />
+
+</head>
+<body style="background: #123456">
+
+<div style="align: center ; width: 820px ; padding: 0px ; margin : 0px">
+<!-- header -->
+<div style="padding : 4px ; width: 820px ; background : #234567 ; border: 1px solid #012345">
+<div class="headingsmall">Ninth annual</div><div class="heading">ICFP&nbsp;Programming&nbsp;Contest</div>
+<div style="font-size : 10px ; padding : 1px ; color : #AAAACC ; background : #2A4C6F ; text-align : right ; margin-top : -4px ">Hosted by <a href="http://www.cs.cmu.edu/" style="text-decoration : none ; font-weight : normal">Carnegie Mellon University</a>'s <a style="text-decoration: none ; font-weight : normal" href="http://www.cs.cmu.edu/afs/cs/Web/Groups/pop/pop.html">POP Group</a></div>
+</div>
+
+
+<!-- sidebar -->
+<table border="0" cellpadding="0" cellspacing="0" style="border : 0px ; margin : 0px ; padding : 0px">
+<tr><td valign="top">
+<div class="sidebar">
+<a class="button" href="/index.shtml">Home</a>
+<a class="button" href="/task.shtml">Task</a>
+<a class="button" href="/rulesfaq.shtml">Rules/FAQ</a>
+<!--
+<a class="button" href="/register.shtml">Register</a>
+-->
+<a class="button" href="/teams.shtml">Teams</a>
+<a class="button" href="/scoreboard.shtml">Scoreboard</a>
+<a class="button" href="/code.shtml">Source&nbsp;Code</a>
+<!--
+<a class="button" href="/submit.shtml">Submit</a>
+<a class="button" href="/results.shtml">Results</a>
+-->
+<a class="button" href="/contact.shtml">Contact</a>
+<a class="button" href="/previous.shtml">Past&nbsp;Years</a>
+</div>
+
+</td>
+<!-- content area -->
+<td valign="top">
+<div style="width : 695px ; border : 1px solid #012345 ; padding : 3px ; margin : 1px ; background : #234567">
+<h1>Teams</h1>
+
+<p>The roster below includes all the teams (alphabetical order) that
+submitted at least one publication.</p>
+
+<table class="global">
+<tr><td class="globalhead">Name</td><td class="globalhead">Size</td><td class="globalhead">Location</td></tr>
+<tr><td class="globalhead">&nbsp;</td><td class="globalhead">Score&nbsp;</a><td class="globalhead">Languages</tr><tr class="global1"><td class="globalteam"><a name="2014">#broken</a></td><td class="globalsome">3</td><td class="globalsome">Taipei, Taiwan</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2014">661</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1403">#cavegossip</a></td><td class="globalsome">1</td><td class="globalsome">Tokyo</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1403">613</a></td><td class="globalsome">Scheme, C, bash,
+QvickBasic, 2d, Balance
+</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2211">0</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2211">360</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1085">4.times { |geek| }</a></td><td class="globalsome">4</td><td class="globalsome">Oklahoma City, OK</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1085">225</a></td><td class="globalsome">C (worked), Ruby (worked, but too slow), Lua (C was faster)</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1060">a$9h8sdf9sh4q2#!k.</a></td><td class="globalsome">2</td><td class="globalsome">Konstanz, Germany</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1060">205</a></td><td class="globalsome">C++</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1935">Abstract Machines</a></td><td class="globalsome">2</td><td class="globalsome">Austria</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1935">585</a></td><td class="globalsome">Haskell, Prolog, C++</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1300"><a href="http://www.network-science.net/icfp2006/">Abstraction Anonymous</a></a></td><td class="globalsome">4</td><td class="globalsome">Socorro, New Mexico</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1300">838</a></td><td class="globalsome">Ruby
+C</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2142">Ace</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2142">260</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1926">acidcode</a></td><td class="globalsome">2</td><td class="globalsome">Bern, Switzerland</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1926">607</a></td><td class="globalsome">C++, bash</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2040">adamc</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2040">637</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1275">Afa</a></td><td class="globalsome">1</td><td class="globalsome">Italy</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1275">260</a></td><td class="globalsome">PLT-Scheme, QVICKBASIC.</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1178"><a href="http://www.aidriven.com/ICFP2006">aiDriven</a></a></td><td class="globalsome">1</td><td class="globalsome">Madison, WI USA</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1178">395</a></td><td class="globalsome">.Net C#</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2394">akihabara</a></td><td class="globalsome">4</td><td class="globalsome">Japan</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2394">1336</a></td><td class="globalsome">C, C++</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1378">Alamak</a></td><td class="globalsome">1</td><td class="globalsome">Paris</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1378">679</a></td><td class="globalsome">C</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1279">All Languages Equal</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1279">335</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1370">Anti-Huhn & Rote-Sau</a></td><td class="globalsome">2</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1370">695</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1954">apa</a></td><td class="globalsome">2</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1954">354</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="2005">apple2gs</a></td><td class="globalsome">2</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2005">2338</a></td><td class="globalsome">C</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1888">APW</a></td><td class="globalsome">1</td><td class="globalsome">Karlsruhe / Germany</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1888">230</a></td><td class="globalsome">Delphi 5</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1907">arc</a></td><td class="globalsome">1</td><td class="globalsome">Germany</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1907">312</a></td><td class="globalsome">C++, C#, Smalltalk</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1273"><a href="http://www.atnnn.com/">AtnNn</a></a></td><td class="globalsome">1</td><td class="globalsome">Montreal, Canada</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1273">410</a></td><td class="globalsome">C, python, 2d, advice</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1066">axhe</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1066">200</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1459">B.C. Tech</a></td><td class="globalsome">2</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1459">678</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1396">BabelLisp</a></td><td class="globalsome">4</td><td class="globalsome">Toronto, Ontario, Canada</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1396">740</a></td><td class="globalsome">C, Lisp, Vim</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1502">Bananas with hackitude</a></td><td class="globalsome">1</td><td class="globalsome">Caltech</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1502">422</a></td><td class="globalsome">Java, O'Cult</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1140">Bart van der Werf</a></td><td class="globalsome">1</td><td class="globalsome">Gouda, Netherlands</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1140">943</a></td><td class="globalsome">Delphi, Java, Bash</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2045">Basement Dwellers</a></td><td class="globalsome">3</td><td class="globalsome">RTP, NC, USA</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2045">1108</a></td><td class="globalsome">C, C++, Lisp, Java</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1343">bathtub</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1343">240</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2007"><a href="http://icfp.dyndns.org:1852/2006/">Begot</a></a></td><td class="globalsome">4</td><td class="globalsome">Cadence Berkeley Labs (Philip, Niklas, Christian), Chalmers University (Tapani)</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2007">5141</a></td><td class="globalsome">C, C++, Python, OCAML, Perl, Ruby</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2309">Bengle</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2309">330</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1213">BioDemons</a></td><td class="globalsome">1</td><td class="globalsome">Antony, France</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1213">397</a></td><td class="globalsome">C, O'Caml</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1022">Bitrot Development</a></td><td class="globalsome">1</td><td class="globalsome">Central European Summer Time</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1022">380</a></td><td class="globalsome">Java</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1965"><a href="http://eigenratios.blogspot.com/">Black Knights</a></a></td><td class="globalsome">2</td><td class="globalsome">New Zealand (Owhango & Wellington!)</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1965">380</a></td><td class="globalsome">Python
+Pyrex
+C
+QVICKBASIC (version VII.0)</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1154">BlackBlack</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1154">340</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1059">BlackJack</a></td><td class="globalsome">1</td><td class="globalsome">Sofia</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1059">347</a></td><td class="globalsome">Java
+Haskell</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2182">Blubber</a></td><td class="globalsome">2</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2182">437</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2242"><a href=" http://grammerjack.spaces.msn.com/blog/cns!F2629C772A178A7C!142.entry">blue_iris</a></a></td><td class="globalsome">1</td><td class="globalsome">Seattle, Washington, USA</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2242">320</a></td><td class="globalsome">F#</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2411">bob's uncle</a></td><td class="globalsome">1</td><td class="globalsome">London</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2411">280</a></td><td class="globalsome">C</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2352">Bored Exile</a></td><td class="globalsome">1</td><td class="globalsome">Ann Arbor, MI</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2352">250</a></td><td class="globalsome">Assembly, C, C++</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1289">Bored Geo Bachelor</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1289">220</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2278">Bork</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2278">390</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1388">Brain Candles</a></td><td class="globalsome">2</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1388">200</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2138">bros</a></td><td class="globalsome">2</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2138">1869</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1970">Bunnies</a></td><td class="globalsome">4</td><td class="globalsome">Bordeaux, Bern, Göteborg, Lyon, Paris</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1970">2290</a></td><td class="globalsome">ocaml, C, sh, python, dc, perl</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2201">C Crazy</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2201">260</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="2032">Cake</a></td><td class="globalsome">3</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2032">845</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1922"><a href="http://yquem.inria.fr/~frisch/icfp06_contest/">CamlNuggets</a></a></td><td class="globalsome">4</td><td class="globalsome">Paris, Rocquencourt</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1922">4203</a></td><td class="globalsome">OCaml, C, Ruby</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1177">canivsar</a></td><td class="globalsome">4</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1177">370</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2324">Cdr Solo</a></td><td class="globalsome">1</td><td class="globalsome">Monterey, CA</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2324">277</a></td><td class="globalsome">C, Java</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1469">Celestial Dire Badger</a></td><td class="globalsome">1</td><td class="globalsome">New York City</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1469">3406</a></td><td class="globalsome">C, Perl, sh</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2084">Chancellor</a></td><td class="globalsome">3</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2084">260</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="2271">CharsetError</a></td><td class="globalsome">1</td><td class="globalsome">Berdsk, Novosibirsk region, Russia</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2271">707</a></td><td class="globalsome">Common Lisp, C</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2453">Chris Lahey</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2453">260</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="2185">ChrisBogart</a></td><td class="globalsome">1</td><td class="globalsome">Denver, CO</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2185">509</a></td><td class="globalsome">C, python</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1411">Christoph Breitkopf</a></td><td class="globalsome">1</td><td class="globalsome">Hannover, Germany</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1411">912</a></td><td class="globalsome">C, Java, Scheme, Haskell</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1086">Chu-Toys</a></td><td class="globalsome">4</td><td class="globalsome">Cambridge, UK; Tallinn, Estonia</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1086">627</a></td><td class="globalsome">C++, Java, ML</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2087">Chunky Bacon</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2087">335</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1434">clambake</a></td><td class="globalsome">2</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1434">230</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1029">Cobleigh</a></td><td class="globalsome">1</td><td class="globalsome">Wellington (New Zealand)</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1029">210</a></td><td class="globalsome">C</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1894">Code X</a></td><td class="globalsome">1</td><td class="globalsome">Warmbronn (near Stuttgart, Germany)</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1894">1687</a></td><td class="globalsome">C++
+Python
+Qvickbasic
+2D</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1485">code_med</a></td><td class="globalsome">1</td><td class="globalsome">Australia</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1485">1585</a></td><td class="globalsome">C</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1228"><a href="http://rmathew.com/">Codermal</a></a></td><td class="globalsome">1</td><td class="globalsome">Bangalore</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1228">460</a></td><td class="globalsome">C</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1290"><a href="http://fxp.hp.infoseek.co.jp/, http://www.geocities.jp/takascience/">combat</a></a></td><td class="globalsome">2</td><td class="globalsome">University of Tokyo & Kyoto University</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1290">3769</a></td><td class="globalsome">Haskell
+C++
+xyzzy(an environment)
+2D, Balance, Qbasic, Ant, Advice
+Hand(a body language)</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2255">Contest Crackers</a></td><td class="globalsome">4</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2255">642</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2359">Cosmin Rus</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2359">415</a></td><td class="globalsome">C#</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1283">CrazyDog</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1283">230</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2199">crem</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2199">544</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1436">Croco</a></td><td class="globalsome">1</td><td class="globalsome">Moscow</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1436">763</a></td><td class="globalsome">C++, Lisp</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1950">Cup[T]</a></td><td class="globalsome">7</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1950">2204</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1405">Curtrek</a></td><td class="globalsome">2</td><td class="globalsome">State College, Pennsylvania</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1405">235</a></td><td class="globalsome">C</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1900">DAle</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1900">360</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1032">Darius</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1032">5</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1931">DaSH</a></td><td class="globalsome">4</td><td class="globalsome">Moscow, Russia</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1931">1230</a></td><td class="globalsome">C++, C, Python, Bourne Shell</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1426">deaus-ex-machina</a></td><td class="globalsome">6</td><td class="globalsome">Freiburg, Germany and Sydney, Australia</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1426">2448</a></td><td class="globalsome">Haskell, Java</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1908">Defrosted Tuna Bonzai Force</a></td><td class="globalsome">3</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1908">475</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1217">Desert Spring-Time</a></td><td class="globalsome">2</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1217">584</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1223">desp & q</a></td><td class="globalsome">2</td><td class="globalsome">Wroclaw, Poland</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1223">1513</a></td><td class="globalsome">C, OCaml</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2214">devil</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2214">705</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1083">DFT++ Hackers</a></td><td class="globalsome">7</td><td class="globalsome">Ithaca, NY</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1083">1781</a></td><td class="globalsome">C++, Haskell, Matlab, Perl</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1315">Dis Functional</a></td><td class="globalsome">1</td><td class="globalsome">Severna Park, MD, USA</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1315">330</a></td><td class="globalsome">C
+Java
+Common Lisp</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1967">discontinuity.info</a></td><td class="globalsome">4</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1967">1414</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1167">dmikurube</a></td><td class="globalsome">1</td><td class="globalsome">Japan</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1167">260</a></td><td class="globalsome">C++</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1010">DoD</a></td><td class="globalsome">1</td><td class="globalsome">Bamberg, Germany</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1010">340</a></td><td class="globalsome">Java, should have used C ;)</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2248"><a href="http://o.mengue.free.fr/">dolmen.fr</a></a></td><td class="globalsome">1</td><td class="globalsome">France</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2248">360</a></td><td class="globalsome">Python, C++, bash, sed, Qvickbasic, advise</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1240">DRAB Boring</a></td><td class="globalsome">2</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1240">1294</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="2374">draco</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2374">360</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1145"><a href="https://www.linkedin.com/in/druffer">DRuffer</a></a></td><td class="globalsome">1</td><td class="globalsome">St. Petersburg, FL</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1145">200</a></td><td class="globalsome">gforth</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1261"><a href="http://fangmeyer.name/icfp2006/">drunken ants</a></a></td><td class="globalsome">3</td><td class="globalsome">Aachen, Germany</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1261">2312</a></td><td class="globalsome">C, perl, 2d, balance, Qvickbasic</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1955">Duncomloolump</a></td><td class="globalsome">4</td><td class="globalsome">Oxford</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1955">4122</a></td><td class="globalsome">Haskell
+C++</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2279">Dutch Forth Whackers</a></td><td class="globalsome">1</td><td class="globalsome">The Netherlands</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2279">418</a></td><td class="globalsome">Forth</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1120">DylanHackers</a></td><td class="globalsome">4</td><td class="globalsome">Germany,New Zealand,Germany,USA</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1120">2851</a></td><td class="globalsome">Dylan,C,Perl,Java,Scheme,Bash</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1194">ecprice</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1194">235</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2258">El's one day try</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2258">240</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="2339">elb and fla</a></td><td class="globalsome">2</td><td class="globalsome">Tokyo</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2339">390</a></td><td class="globalsome">C,C++</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2284">elvin</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2284">25</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1506">ElvisDownUnder</a></td><td class="globalsome">3</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1506">480</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1211">Entirely Non-Serious</a></td><td class="globalsome">5</td><td class="globalsome">tokyo, boston, bordeaux, paris, oxford</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1211">2550</a></td><td class="globalsome">Ocaml, Phython, C, PHP</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2082"><a href="http://revenge.botik.ru/cgi-bin/twiki/view/Refaldevel/IcfpContest2006">Error 404</a></a></td><td class="globalsome">2</td><td class="globalsome">Moscow, Russia</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2082">1658</a></td><td class="globalsome">C++, Refal+</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1098">Eversti Sandels</a></td><td class="globalsome">1</td><td class="globalsome">Helsinki</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1098">240</a></td><td class="globalsome">Common Lisp, Python</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1019">Exo-plugarite Zulanga</a></td><td class="globalsome">4</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1019">2351</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2042">Expansion</a></td><td class="globalsome">2</td><td class="globalsome">Edinburgh, Scotland</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2042">4381</a></td><td class="globalsome">C, C++, Perl, Haskell, /bin/sh, m4; qbasic, 2D, Balance, Advise, RML</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1895">Falkor</a></td><td class="globalsome">1</td><td class="globalsome">Charleston, SC</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1895">385</a></td><td class="globalsome">C++, Ruby, Haskell</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2421">FB</a></td><td class="globalsome">1</td><td class="globalsome">France</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2421">534</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="2316">fc</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2316">360</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2076">Felonious Quackery</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2076">40</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1963">FERTeam 1</a></td><td class="globalsome">2</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1963">420</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2011">fix error</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2011">230</a></td><td class="globalsome">Haskell</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2078">flup</a></td><td class="globalsome">4</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2078">541</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1472">Flying Squirrels</a></td><td class="globalsome">2</td><td class="globalsome">Worcester, MA</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1472">551</a></td><td class="globalsome">O'Caml
+C</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1858">Forza Materazzi!</a></td><td class="globalsome">1</td><td class="globalsome">Japan</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1858">3342</a></td><td class="globalsome">Emacs Lisp
+Python
+C
+Java
+</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1896">Free the Mallocs</a></td><td class="globalsome">4</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1896">2165</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1308"><a href="http://www.sawicki.us/icfp/2006/">Frictionless Bananas</a></a></td><td class="globalsome">3</td><td class="globalsome">Cambridge, MA, USA</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1308">3485</a></td><td class="globalsome">Haskell, C++, C</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2137">FSharpShooters</a></td><td class="globalsome">2</td><td class="globalsome">Cambridge, UK</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2137">1645</a></td><td class="globalsome">F#</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1281"><a href="http://wiki.freaks-unidos.net/icfp">FUN</a></a></td><td class="globalsome">5</td><td class="globalsome">Colombia</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1281">1881</a></td><td class="globalsome">C
+Scheme
+Common Lisp
+Python</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1905"><a href="http://schani.wordpress.com/2006/07/24/the-icfp-programming-contest-2006/">Funktion im Kopf der Mensch</a></a></td><td class="globalsome">4</td><td class="globalsome">Vienna, Austria</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1905">4701</a></td><td class="globalsome">O'Caml, Lisp, C</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1160">funnie.sf.net</a></td><td class="globalsome">4</td><td class="globalsome">DePauw University, Greencastle, IN, USA</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1160">770</a></td><td class="globalsome">Java
+C
+Haskell</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1209"><a href="futurelabs.infogami.com">Future Labs</a></a></td><td class="globalsome">4</td><td class="globalsome">Bangalore</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1209">428</a></td><td class="globalsome">C
+Python</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2046">gecko</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2046">490</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2306">GeneralFailure</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2306">425</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="2384">Geoff Reedy</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2384">414</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1988">GFlat</a></td><td class="globalsome">2</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1988">563</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="2444">gidler</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2444">235</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1930">Goochaeologists</a></td><td class="globalsome">2</td><td class="globalsome">Santa Monica, CA & Tokyo, Japan</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1930">4393</a></td><td class="globalsome">C
+C++
+Haskell</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1372">Goto 10</a></td><td class="globalsome">4</td><td class="globalsome">Oldenburg (Germany)</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1372">1024</a></td><td class="globalsome">C++, Haskell</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2178">Grandeus</a></td><td class="globalsome">2</td><td class="globalsome">Portland, OR, USA</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2178">390</a></td><td class="globalsome">GNU Forth 0.6.2</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1334">GreenTea</a></td><td class="globalsome">6</td><td class="globalsome">Tokyo</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1334">561</a></td><td class="globalsome">OCaml, QBASIC</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2028">gryder</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2028">582</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1981">GTeamLlama</a></td><td class="globalsome">1</td><td class="globalsome">Mountain View, CA</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1981">1119</a></td><td class="globalsome">Java</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2101">Guild</a></td><td class="globalsome">2</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2101">726</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1366">Gunma Function</a></td><td class="globalsome">6</td><td class="globalsome">Tokyo, Japan</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1366">1566</a></td><td class="globalsome">C++
+Java
+QvickBasic
+2d
+O'Cult
+BALANCE</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1923">gzoluble</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1923">704</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1136"><a href="http://www.di.unipi.it/~saiu/icfp/2006/index.html">Hackers beneath the tower</a></a></td><td class="globalsome">2</td><td class="globalsome">Pisa, Italy</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1136">795</a></td><td class="globalsome">C, Prolog, EmacsLisp, bash, awk
+A lot of pen and paper.</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1983">Hackers for Peace</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1983">330</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="2335">hagman</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2335">313</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1347">Happy Crapy Programmers</a></td><td class="globalsome">4</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1347">10</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1323">Heavy Metal</a></td><td class="globalsome">3</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1323">898</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2073">Helicopter</a></td><td class="globalsome">4</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2073">435</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="2318">HelloWorld</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2318">205</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1385">HK</a></td><td class="globalsome">1</td><td class="globalsome">Germany</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1385">370</a></td><td class="globalsome">C
+Qvickbasic
+2D</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1453">Honey Bunches of Death</a></td><td class="globalsome">2</td><td class="globalsome">San Jose, California, USA and UK, respectively</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1453">845</a></td><td class="globalsome">C, Perl</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2050">Hooters</a></td><td class="globalsome">2</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2050">965</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="2387">hsc</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2387">240</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2227">Hungry Programmers</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2227">435</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1901">Hyde Park Hoodlums</a></td><td class="globalsome">3</td><td class="globalsome">Chicago, Hyde Park</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1901">1899</a></td><td class="globalsome">SML,C</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1408"><a href="http://www.flexman.homeip.net/comments/ICFP+2006">I C Frantic People</a></a></td><td class="globalsome">8</td><td class="globalsome">Leipzig, Germany and Amsterdam, Netherlands and Edinburgh, UK</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1408">2693</a></td><td class="globalsome">Haskell
+Java
+C++</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2300">In Various Places</a></td><td class="globalsome">2</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2300">578</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2152">Incinerated MaLo</a></td><td class="globalsome">2</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2152">1294</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="2089">indeed</a></td><td class="globalsome">2</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2089">360</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1445"><a href="http://math.berkeley.edu/~matthias/index.php?m1=icfp">Insomnia Bremen-Nord</a></a></td><td class="globalsome">3</td><td class="globalsome">Bremen, Germany, Canberra, Australia</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1445">3566</a></td><td class="globalsome">C++, 2d, balance, qvickbasic</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2038">iNstAnT cHaoS</a></td><td class="globalsome">3</td><td class="globalsome">München, Germany</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2038">559</a></td><td class="globalsome">C, emacs, Haskell</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1400">INTERCAmL</a></td><td class="globalsome">3</td><td class="globalsome">Japan</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1400">4103</a></td><td class="globalsome">Ocaml,C++,perl</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1984">jabber.ru</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1984">280</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1351">James_Aguilar_Solo</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1351">424</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1173">java junkies</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1173">355</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2336">JJC1138</a></td><td class="globalsome">1</td><td class="globalsome">London, United Kingdom</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2336">360</a></td><td class="globalsome">C++</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2209">JMEG</a></td><td class="globalsome">4</td><td class="globalsome">Providence, RI and Redwood City, CA </td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2209">2107</a></td><td class="globalsome">C++, scheme</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2434">Just For Fun</a></td><td class="globalsome">2</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2434">457</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="2208">Just One</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2208">504</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2109">Just playin' around</a></td><td class="globalsome">1</td><td class="globalsome">Tucson, AZ, USA</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2109">746</a></td><td class="globalsome">Common Lisp, C++</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2331">kaerukun</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2331">730</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1471">Kee</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1471">500</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="2205">Keith Bauer</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2205">220</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2063">key</a></td><td class="globalsome">1</td><td class="globalsome">Sacramento, CA</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2063">271</a></td><td class="globalsome">C++, Ruby</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2413">KeyJ</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2413">260</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2445"><a href="http://ken.friislarsen.net/blog/2006/07/27/icfp-contest-2006-team-kfl/">KFL</a></a></td><td class="globalsome">1</td><td class="globalsome">Copenhagen, Denmark</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2445">330</a></td><td class="globalsome">SML</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1454">KillerAnts</a></td><td class="globalsome">1</td><td class="globalsome">Oldenburg, Germany</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1454">260</a></td><td class="globalsome">C#</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1383">Knights of the Symbolic Table</a></td><td class="globalsome">2</td><td class="globalsome">Chalmers</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1383">3365</a></td><td class="globalsome">Haskell, C, 2d, balance-asm, adventure-ml, advise</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1330">koigroj</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1330">220</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2338">Konvent</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2338">225</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="2136">Krakow Dragons</a></td><td class="globalsome">2</td><td class="globalsome">Gliwice, Krakow, Poland</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2136">1749</a></td><td class="globalsome">C, C++, Python</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1879">kuma-</a></td><td class="globalsome">4</td><td class="globalsome">Japan</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1879">5330</a></td><td class="globalsome">D,C,C++,Java,Ruby</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2268">Kuroron</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2268">335</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2140">LA</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2140">467</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1964"><a href="http://www.notvincenz.com/wiki/pmwiki.php/Icfp/Main">Lazy Bottoms</a></a></td><td class="globalsome">4</td><td class="globalsome">Belgium, Denmark, Ukraine</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1964">3595</a></td><td class="globalsome">Haskell, Prolog, C, C++, Shellscript</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2029">LemonLime</a></td><td class="globalsome">3</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2029">701</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="2304"><a href="http://flicken.net/icfp/2006/">Lethargic Orangutan Linguists</a></a></td><td class="globalsome">3</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2304">240</a></td><td class="globalsome">Ruby, C, Python, Java</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1906">lezbollah</a></td><td class="globalsome">3</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1906">440</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1898">libertarian</a></td><td class="globalsome">2</td><td class="globalsome">Chicago, IL USA</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1898">470</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2169">lightweight</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2169">1355</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1116">Lind</a></td><td class="globalsome">2</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1116">200</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1100">Lone BloB</a></td><td class="globalsome">1</td><td class="globalsome">Grenoble (France)</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1100">475</a></td><td class="globalsome">Java</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2103">Lone C++ Coder</a></td><td class="globalsome">1</td><td class="globalsome">Allen, TX</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2103">335</a></td><td class="globalsome">C++, Python</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2148">LoneHorse</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2148">306</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1925">MadMathMan</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1925">395</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1106">Magnus</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1106">505</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1048">Mahalito</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1048">135</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1980">Makakapuss</a></td><td class="globalsome">4</td><td class="globalsome">Rennes, France</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1980">3754</a></td><td class="globalsome">Objective Caml
+Python
+</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1878">MalFunctional Programmer</a></td><td class="globalsome">2</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1878">710</a></td><td class="globalsome">Haskell (Black solver),
+C (VM),
+Ruby (input reformatting)</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2071">mamegoma</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2071">1016</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="2297">marco.r</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2297">240</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2382">Mark</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2382">320</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1114">Mark James - Intercal FTW!</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1114">230</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2202">maxm</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2202">235</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="2215">mc2</a></td><td class="globalsome">2</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2215">612</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2250">Me, too!</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2250">220</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="2264"><a href="http://eigenclass.org/hiki.rb?ICFP06">mfp</a></a></td><td class="globalsome">1</td><td class="globalsome">Spain</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2264">607</a></td><td class="globalsome">C
+Ruby</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2371">Mike W</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2371">408</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1430">MiMtim</a></td><td class="globalsome">2</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1430">3520</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2229">Misfits</a></td><td class="globalsome">2</td><td class="globalsome">Maryland and Florida, USA</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2229">1029</a></td><td class="globalsome">Java, Python</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2113">Mjoelk</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2113">225</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1913">mofumofu</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1913">260</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="2301">moop</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2301">340</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1461">Mushroom</a></td><td class="globalsome">2</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1461">260</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1958">namasute</a></td><td class="globalsome">1</td><td class="globalsome">Japan</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1958">2859</a></td><td class="globalsome">C++, C</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2245">nattomaki</a></td><td class="globalsome">4</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2245">3126</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="2193">Neb Sinned</a></td><td class="globalsome">2</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2193">220</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2081">niezbyt_rozgarnieci</a></td><td class="globalsome">3</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2081">1387</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1336">NJU02</a></td><td class="globalsome">3</td><td class="globalsome">Nanjing, ChinaPR</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1336">220</a></td><td class="globalsome">C++</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2206">No Dissassemble</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2206">390</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="2389">Nobody</a></td><td class="globalsome">1</td><td class="globalsome">Germany</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2389">1983</a></td><td class="globalsome">Haskell
+C</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1049">Nomadic I/O</a></td><td class="globalsome">1</td><td class="globalsome">USA</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1049">220</a></td><td class="globalsome">C, Haskell</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1928"><a href="http://www.eecs.harvard.edu/nr/icfp/06/">Norman Ramsey</a></a></td><td class="globalsome">1</td><td class="globalsome">Malden, Massachusetts, USA</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1928">2129</a></td><td class="globalsome">C, Objective Caml, Lua, Korn shell, CPLEX LP</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2164">ntua_c_the_beach_is_far</a></td><td class="globalsome">3</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2164">220</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1969">ntuaml</a></td><td class="globalsome">3</td><td class="globalsome">Athens, Greece</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1969">1526</a></td><td class="globalsome">OCaml
+C/C++
+Mathematica
+a touch of Haskell</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1038">Nu</a></td><td class="globalsome">3</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1038">1056</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1948">nucleus</a></td><td class="globalsome">2</td><td class="globalsome">Germany</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1948">260</a></td><td class="globalsome">C++</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1224">ocamlman</a></td><td class="globalsome">1</td><td class="globalsome">St.Petersburg</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1224">1222</a></td><td class="globalsome">C</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2141">oehweissnicht</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2141">225</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2221">okigiveup</a></td><td class="globalsome">1</td><td class="globalsome">Cupertino, CA</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2221">230</a></td><td class="globalsome">C++, tcsh</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2241">Olathe</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2241">258</a></td><td class="globalsome">C</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1159">Old Boys</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1159">225</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1890">One Man Band</a></td><td class="globalsome">1</td><td class="globalsome">Melbourne, Australia</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1890">1086</a></td><td class="globalsome">C#</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1352">Oztracon</a></td><td class="globalsome">2</td><td class="globalsome">Quebec</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1352">340</a></td><td class="globalsome">C, Oz</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2222">Padre</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2222">260</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2257">Paul Stoever</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2257">551</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="2196">pdx_Lr8</a></td><td class="globalsome">1</td><td class="globalsome">Portland, Oregon, USA</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2196">230</a></td><td class="globalsome">Borland Delphi</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2396">Peaches</a></td><td class="globalsome">1</td><td class="globalsome">Tokyo</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2396">385</a></td><td class="globalsome">Perl
+C</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2147">Peekoo</a></td><td class="globalsome">2</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2147">275</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1401">PFI</a></td><td class="globalsome">3</td><td class="globalsome">Japan</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1401">2094</a></td><td class="globalsome">C++
+Haskell
+</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1447">pg</a></td><td class="globalsome">1</td><td class="globalsome">belgium</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1447">830</a></td><td class="globalsome">common lisp, c++</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1269"><a href="http://phoenix.pm.org/">Phoenix Perl Mongers</a></a></td><td class="globalsome">3</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1269">659</a></td><td class="globalsome">Perl, C, OCaml</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2260">pinc</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2260">455</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1475">Piyo</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1475">205</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1863"><a href="http://www.bookeldor-net.info/plop/">PLOP</a></a></td><td class="globalsome">4</td><td class="globalsome">Paris, France</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1863">4738</a></td><td class="globalsome">C, Objective Caml, Perl, Bash</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2424">polka</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2424">380</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="2043">PourVoir</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2043">225</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2266">Powered by Erlang</a></td><td class="globalsome">1</td><td class="globalsome">Uppsala, Sweden</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2266">230</a></td><td class="globalsome">Erlang</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1033"><a href="http://www.dranger.com/prp.html">Pretend Robot Pants</a></a></td><td class="globalsome">3</td><td class="globalsome">(Osaka, Japan), (Chicago, Illinois), (Madison, Wisconsin)</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1033">868</a></td><td class="globalsome">C, C++, Perl</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1139">Proactive Apathy</a></td><td class="globalsome">1</td><td class="globalsome">Chicago, IL</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1139">360</a></td><td class="globalsome">C, Python</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1394"><a href="http://page.mi.fu-berlin.de/~oezbek/">PublicStaticVoid</a></a></td><td class="globalsome">1</td><td class="globalsome">Berlin, Germany</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1394">2045</a></td><td class="globalsome">Java</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2259">Purple Monkey Dishwasher</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2259">420</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="2439">Putting the C in Coding</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2439">200</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1042">Puzzler</a></td><td class="globalsome">2</td><td class="globalsome">Seattle</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1042">411</a></td><td class="globalsome">Python, C</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1462">rec X.not(X)</a></td><td class="globalsome">2</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1462">281</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2398"><a href="http://paul.bluereboot.net/um/">Redcode</a></a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2398">355</a></td><td class="globalsome">C, x86 ASM</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1877">Reflexive Coequalizers</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1877">335</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2253">relax</a></td><td class="globalsome">3</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2253">632</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="2372">Resonance Cascade</a></td><td class="globalsome">1</td><td class="globalsome">Silver Spring, MD</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2372">971</a></td><td class="globalsome">C/C++</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1381">Rhinos</a></td><td class="globalsome">3</td><td class="globalsome">Bonn/Koblenz/Hamburg, Germany</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1381">529</a></td><td class="globalsome">Delphi, C++</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1210">River Rats</a></td><td class="globalsome">4</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1210">632</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2262">rlk</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2262">415</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="2015">Rododo2</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2015">600</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1084">Room 641A</a></td><td class="globalsome">1</td><td class="globalsome">Stamford, CT</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1084">618</a></td><td class="globalsome">Java, Perl, Beanshell</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2074">RRE</a></td><td class="globalsome">2</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2074">643</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1090">Schattenjager</a></td><td class="globalsome">1</td><td class="globalsome">Ontario, Canada</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1090">743</a></td><td class="globalsome">C++</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1344">Schildkroete</a></td><td class="globalsome">1</td><td class="globalsome">Olsbruecken (Germany, near Kaiserslautern)</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1344">380</a></td><td class="globalsome">C, OCaml, Haskell, BASIC, 2D, Bal</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2425">scrapped robot</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2425">200</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="2328">scsibug</a></td><td class="globalsome">1</td><td class="globalsome">Dallas, Texas</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2328">375</a></td><td class="globalsome">Java, Scheme, Haskell</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2021">sdb</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2021">555</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1294">Sealab2021</a></td><td class="globalsome">2</td><td class="globalsome">MA/NH</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1294">506</a></td><td class="globalsome">Python, C</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1096">seversk</a></td><td class="globalsome">1</td><td class="globalsome">Seversk, Tomsk region, Russia</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1096">594</a></td><td class="globalsome">C++
+2D
+O'Cult
+QBasic</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2072">Sgt. G & The C.O.D.</a></td><td class="globalsome">3</td><td class="globalsome">Bremen, Germany</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2072">704</a></td><td class="globalsome">C</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1376">shinh</a></td><td class="globalsome">1</td><td class="globalsome">Tokyo, Japan</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1376">2761</a></td><td class="globalsome">D
+Ruby</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2474">ShootAgain</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2474">235</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1117">Simon Funk</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1117">705</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="2369">Sketch</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2369">260</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2155">slackers</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2155">804</a></td><td class="globalsome">C, shell script</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2217">Sleep Deprivation</a></td><td class="globalsome">1</td><td class="globalsome">Sunnyvale, CA</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2217">475</a></td><td class="globalsome">C</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2251">Sleeping Coders</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2251">325</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="2125">Slow</a></td><td class="globalsome">1</td><td class="globalsome">New York, NY, USA</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2125">230</a></td><td class="globalsome">C
+Python</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2145">SMalL efforts</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2145">260</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="2426">Soepy</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2426">235</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2265">Solitary Caterpillar</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2265">380</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1028">some math grad students</a></td><td class="globalsome">3</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1028">235</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1438">Song of Old Nassau</a></td><td class="globalsome">2</td><td class="globalsome">Princeton University</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1438">648</a></td><td class="globalsome">C, Java, Python, SML</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2294">ssp</a></td><td class="globalsome">0</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2294">235</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2144">sualk</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2144">629</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1406">SugarSunSuperS</a></td><td class="globalsome">1</td><td class="globalsome">Tokyo, Japan</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1406">600</a></td><td class="globalsome">O'Caml</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1250">Suicidal Cyber Jedi</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1250">1370</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1256">Super Turbo Caml Puncher 2</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1256">650</a></td><td class="globalsome">C++,Perl</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1023">Tantilla planiceps</a></td><td class="globalsome">1</td><td class="globalsome">Waco, TX</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1023">320</a></td><td class="globalsome">Python</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1449">Team And A Half</a></td><td class="globalsome">2</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1449">260</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1985"><a href="http://www.arastra.com/">Team Arastra</a></a></td><td class="globalsome">1</td><td class="globalsome">Palo Alto, CA, USA</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1985">1610</a></td><td class="globalsome">C, Python</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1168">Team Ball</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1168">205</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1463">Team Bruno</a></td><td class="globalsome">3</td><td class="globalsome">Austria</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1463">1011</a></td><td class="globalsome">C,Ruby,Haskell</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2329">Team Lazy Afternoon</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2329">619</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1974">Team PipeWrench</a></td><td class="globalsome">2</td><td class="globalsome">Mountain View, CA, USA</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1974">2147</a></td><td class="globalsome">C, Haskell</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2218">Team Rocket</a></td><td class="globalsome">2</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2218">495</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1432">Team Roflcopter</a></td><td class="globalsome">6</td><td class="globalsome">Pasadena, CA; Ithaca, NY; Sierra Vista, AZ; Nijmegen, Nederland</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1432">2424</a></td><td class="globalsome">Haskell, C, Maple</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1346">Team Smartass</a></td><td class="globalsome">4</td><td class="globalsome">Mountain View, California, USA</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1346">5428</a></td><td class="globalsome">C++, Haskell, Python, bash, 2D, secret Google [___REDACTED___]
+</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1910">Team Soubeyran</a></td><td class="globalsome">1</td><td class="globalsome">Oxbridge</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1910">360</a></td><td class="globalsome">python
+C</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2150">Team Tranbjerg</a></td><td class="globalsome">1</td><td class="globalsome">Ã…rhus Denmark</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2150">360</a></td><td class="globalsome">C#, Python</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1425">Team TUKL</a></td><td class="globalsome">2</td><td class="globalsome">Kaiserslautern, Germany</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1425">560</a></td><td class="globalsome">OCaml, C++</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2130">Team Vil</a></td><td class="globalsome">1</td><td class="globalsome">Guildford, UK</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2130">390</a></td><td class="globalsome">Java 5.0</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2139">Team Weary</a></td><td class="globalsome">2</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2139">842</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1314">TeamDJ</a></td><td class="globalsome">1</td><td class="globalsome">Adelaide, South Australia</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1314">665</a></td><td class="globalsome">C++,
+C</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2017">TeamJJ</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2017">220</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1214">Termite</a></td><td class="globalsome">2</td><td class="globalsome">Karlsruhe, (Germany)</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1214">310</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1439">terraincognita</a></td><td class="globalsome">4</td><td class="globalsome">Germany, Oregon (US)</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1439">836</a></td><td class="globalsome">Dylan, expect</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1008"><a href="http://www.kingsrook.com/icfp/">The Al-Gore-Rhythms</a></a></td><td class="globalsome">3</td><td class="globalsome">St. Louis, MO</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1008">1240</a></td><td class="globalsome">Java, Perl</td></tr>
+<tr class="global1"><td class="globalteam" rowspan="2"><a name="2013">The Black Knight Always Triumphs</a></td><td class="globalsome">3</td><td class="globalsome">Stellenbosch (South Africa)</td></tr>
+<tr class="global1"><td class="globalteam"><a href="scoreboard.shtml#2013">648</a></td><td class="globalsome">Python
+D
+Ruby
+bash</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1328">The Blind Hen</a></td><td class="globalsome">6</td><td class="globalsome">DTU, Denmark</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1328">3759</a></td><td class="globalsome">O'Caml, C, SML, Perl.</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1484"><a href="http://foxxtrot.net/ICFP/2006/">The Bobcat Hackers</a></a></td><td class="globalsome">3</td><td class="globalsome">Spokane, WA; Great Falls, MT; Las Vegas, NV</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1484">225</a></td><td class="globalsome">C</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1180"><a href="http://www.lri.fr/~filliatr/icfp-2006/">The Caml Riders</a></a></td><td class="globalsome">8</td><td class="globalsome">Orsay, France</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1180">4553</a></td><td class="globalsome">Objective Caml
+Prolog
+Shell script</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1919">The Chess Club</a></td><td class="globalsome">4</td><td class="globalsome">Montreal, Quebec, Canada</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1919">1177</a></td><td class="globalsome">Java, C#, Standard ML</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1387">the code alchemists</a></td><td class="globalsome">4</td><td class="globalsome">Columbia, Maryland, USA</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1387">1786</a></td><td class="globalsome">Python, C</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1171">The Green Onions</a></td><td class="globalsome">2</td><td class="globalsome">Bath, UK</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1171">705</a></td><td class="globalsome">C, SETL, awk</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1413">The Higher Order Of Zeuxis</a></td><td class="globalsome">2</td><td class="globalsome">Frankfurt am Main</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1413">1355</a></td><td class="globalsome">C, Ruby, Haskell, Paper&Pen...</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2027">The Invisble Imp</a></td><td class="globalsome">2</td><td class="globalsome">Kirkland, WA</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2027">2087</a></td><td class="globalsome">C, Perl</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1968">The lone Camlist</a></td><td class="globalsome">1</td><td class="globalsome">Versailles, Toulouse, Olivet (France)</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1968">735</a></td><td class="globalsome">OCaml, C</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2143">The Machete</a></td><td class="globalsome">1</td><td class="globalsome">Cambridge, MA</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2143">540</a></td><td class="globalsome">Perl, C</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2184">The Mafia</a></td><td class="globalsome">2</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2184">320</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2399">The Moomins</a></td><td class="globalsome">2</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2399">225</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1226">The Strong and Silent Types</a></td><td class="globalsome">4</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1226">971</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1292">The Undutchable</a></td><td class="globalsome">1</td><td class="globalsome">Nijmegen (The Netherlands)</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1292">380</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="2158">TheInterns</a></td><td class="globalsome">5</td><td class="globalsome">Cambridge</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2158">2424</a></td><td class="globalsome">C++, GHC-Haskell, OCaml, F#, C#, Ruby</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2049">There's no return from x86...</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2049">500</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="2111">THETeam</a></td><td class="globalsome">3</td><td class="globalsome">Saarbruecken, Germany</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2111">3953</a></td><td class="globalsome">C++, awk</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1280">TheUsualSuspects</a></td><td class="globalsome">3</td><td class="globalsome">Pune, India</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1280">1104</a></td><td class="globalsome">C/C++, Python</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2308">Tilly</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2308">403</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1009"><a href="http://math.umh.ac.be/an/">Timewarp</a></a></td><td class="globalsome">1</td><td class="globalsome">Mons, Belgium</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1009">619</a></td><td class="globalsome">OCaml, C</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2322">Tirebiters</a></td><td class="globalsome">2</td><td class="globalsome">Eastern Washington University</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2322">220</a></td><td class="globalsome">Python, C </td></tr>
+<tr class="global1"><td class="globalteam"><a name="2165">tired---gone to the beach</a></td><td class="globalsome">1</td><td class="globalsome">France</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2165">5</a></td><td class="globalsome">C</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2337">to be disclosed</a></td><td class="globalsome">0</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2337">260</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1220">Toasted Monkeys</a></td><td class="globalsome">4</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1220">1163</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="2064">Togni</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2064">255</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2373">Too Late</a></td><td class="globalsome">1</td><td class="globalsome">Lausanne, Switzerland</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2373">585</a></td><td class="globalsome">Java</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2224">TOURING</a></td><td class="globalsome">1</td><td class="globalsome">Canberra, Australia</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2224">205</a></td><td class="globalsome">python</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2385">Treedub</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2385">436</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1359">TreuNerds</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1359">230</a></td><td class="globalsome">C++</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2429">Truk</a></td><td class="globalsome">1</td><td class="globalsome">Liverpool</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2429">360</a></td><td class="globalsome">C++, qbasic, 2d</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2362">tumbochka</a></td><td class="globalsome">1</td><td class="globalsome">Moscow, RU</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2362">385</a></td><td class="globalsome">C, Ruby, Shell, Basic</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2151">Tuxee</a></td><td class="globalsome">2</td><td class="globalsome">Paris, France</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2151">360</a></td><td class="globalsome">Common Lisp (SBCL)</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2107">Twan</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2107">5</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1118"><a href="http://uguu.org/">uguu.org</a></a></td><td class="globalsome">1</td><td class="globalsome">Milpitas, CA, USA</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1118">599</a></td><td class="globalsome">C, Perl, OCaml</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2162">uirw</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2162">210</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1222"><a href="http://people.cs.uct.ac.za/~gllmar013/icfp/">United Coding Team</a></a></td><td class="globalsome">8</td><td class="globalsome">South Africa</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1222">775</a></td><td class="globalsome">C++,Perl,Java</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2286">UnoQualunque</a></td><td class="globalsome">2</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2286">200</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2092">Unwashed Masses</a></td><td class="globalsome">1</td><td class="globalsome">Los Angeles, CA</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2092">240</a></td><td class="globalsome">C++</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2159">Urxae</a></td><td class="globalsome">1</td><td class="globalsome">The Netherlands</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2159">310</a></td><td class="globalsome">D</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1284">UUST</a></td><td class="globalsome">4</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1284">2208</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1183">UVa</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1183">557</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2261">V___V</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2261">601</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1263">vbzoli</a></td><td class="globalsome">1</td><td class="globalsome">Hungary, Szilasliget</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1263">905</a></td><td class="globalsome">C, Common Lisp</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2252">Vespertine</a></td><td class="globalsome">1</td><td class="globalsome">Ustek, Czech Republic</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2252">355</a></td><td class="globalsome">C++</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1390">VnB</a></td><td class="globalsome">2</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1390">200</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1489">vole</a></td><td class="globalsome">1</td><td class="globalsome">China</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1489">225</a></td><td class="globalsome">Java</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1398">Warren Lispnik</a></td><td class="globalsome">1</td><td class="globalsome">Warren, NJ</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1398">260</a></td><td class="globalsome">Common Lisp,Java</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2285">What-I-need-to-register?</a></td><td class="globalsome">1</td><td class="globalsome">New Zealand</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2285">290</a></td><td class="globalsome">Common Lisp</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2067">white mice who built the earth</a></td><td class="globalsome">4</td><td class="globalsome">Canada</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2067">3109</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2188">WickerMan</a></td><td class="globalsome">1</td><td class="globalsome">RTP, NC</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2188">5</a></td><td class="globalsome">C++</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2195">WickerMan</a></td><td class="globalsome">1</td><td class="globalsome">RTP, NC</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2195">572</a></td><td class="globalsome">C++</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2361"><a href="http://network.amigascne.org/">winden</a></a></td><td class="globalsome">1</td><td class="globalsome">spain</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2361">325</a></td><td class="globalsome">c</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1979">Witrala</a></td><td class="globalsome">1</td><td class="globalsome">Renton, WA, USA</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1979">4939</a></td><td class="globalsome">C++, Perl</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1063">Wolf</a></td><td class="globalsome">1</td><td class="globalsome">Aachen, Germany</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1063">340</a></td><td class="globalsome">C</td></tr>
+<tr class="global0"><td class="globalteam"><a name="1957">xedoc</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1957">260</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="1301">Y.T.</a></td><td class="globalsome">2</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1301">516</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam" rowspan="2"><a name="1956">You Can't Spell Awesome Without ASM</a></td><td class="globalsome">4</td><td class="globalsome">Mountain View, CA; Duluth, MN; Warsaw, Poland</td></tr>
+<tr class="global0"><td class="globalteam"><a href="scoreboard.shtml#1956">5328</a></td><td class="globalsome">Assembly, C++, perl, shell script</td></tr>
+<tr class="global1"><td class="globalteam"><a name="2212">YukePeria</a></td><td class="globalsome">2</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2212">335</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="2341">Zis</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2341">464</a></td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam"><a name="2163">zng</a></td><td class="globalsome">1</td><td class="globalsome"></td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2163">2389</a></td><td class="globalsome"></td></tr>
+<tr class="global0"><td class="globalteam"><a name="1404">Zunda Lovers</a></td><td class="globalsome">4</td><td class="globalsome">Sendai, Japan</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1404">1981</a></td><td class="globalsome">Standard ML, C, Ruby, B shell</td></tr>
+<tr class="global1"><td class="globalteam"><a name="1972">Zuse-Basalt</a></td><td class="globalsome">2</td><td class="globalsome">Germany, Cologne and Ulm</td></tr>
+<tr class="global1"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#1972">3203</a></td><td class="globalsome">C++</td></tr>
+<tr class="global0"><td class="globalteam"><a name="2333">Ö</a></td><td class="globalsome">2</td><td class="globalsome">(Espoo, Oulu), Finland</td></tr>
+<tr class="global0"><td class="globalteam">&nbsp;</td><td class="globalteam"><a href="scoreboard.shtml#2333">965</a></td><td class="globalsome">Java, C, Python, RML, Balance, Qvickbasic, Perl</td></tr>
+
+
+
+</table>
+
+</div>
+</td>
+</tr></table>
+</div>
+
+</body>
+</html>

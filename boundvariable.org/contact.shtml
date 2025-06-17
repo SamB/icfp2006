@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>ICFP Programming Contest, 2006 : Contact</title>
+<link rel="stylesheet" type="text/css" href="/icfp.css" title="ICFP" />
+
+</head>
+<body style="background: #123456">
+
+<div style="align: center ; width: 600px ; padding: 0px ; margin : 0px">
+<!-- header -->
+<div style="padding : 4px ; width: 600px ; background : #234567 ; border: 1px solid #012345">
+<div class="headingsmall">Ninth annual</div><div class="heading">ICFP&nbsp;Programming&nbsp;Contest</div>
+<div style="font-size : 10px ; padding : 1px ; color : #AAAACC ; background : #2A4C6F ; text-align : right ; margin-top : -4px ">Hosted by <a href="http://www.cs.cmu.edu/" style="text-decoration : none ; font-weight : normal">Carnegie Mellon University</a>'s <a style="text-decoration: none ; font-weight : normal" href="http://www.cs.cmu.edu/afs/cs/Web/Groups/pop/pop.html">POP Group</a></div>
+</div>
+
+
+<!-- sidebar -->
+<table border="0" cellpadding="0" cellspacing="0" style="border : 0px ; margin : 0px ; padding : 0px">
+<tr><td valign="top">
+<div class="sidebar">
+<a class="button" href="/index.shtml">Home</a>
+<a class="button" href="/task.shtml">Task</a>
+<a class="button" href="/rulesfaq.shtml">Rules/FAQ</a>
+<!--
+<a class="button" href="/register.shtml">Register</a>
+-->
+<a class="button" href="/teams.shtml">Teams</a>
+<a class="button" href="/scoreboard.shtml">Scoreboard</a>
+<a class="button" href="/code.shtml">Source&nbsp;Code</a>
+<!--
+<a class="button" href="/submit.shtml">Submit</a>
+<a class="button" href="/results.shtml">Results</a>
+-->
+<a class="button" href="/contact.shtml">Contact</a>
+<a class="button" href="/previous.shtml">Past&nbsp;Years</a>
+</div>
+
+</td>
+<!-- content area -->
+<td valign="top">
+<div class="content">
+<h1>Contact Us</h1>
+
+<h2>Organizers</h2>
+
+<p class="short">To contact the ICFP contest organizers, send email to <span
+class="email">icfpcontest-organizers@lists.andrew.cmu.edu</span>.</p>
+
+<h2>Announcements</h2>
+
+<p>We will send important contest announcements to the <a
+href="http://lists.andrew.cmu.edu/mailman/listinfo/icfpcontest-announce">announce
+list</a>. Only organizers will post to this list.
+
+<h2>Discussion</h2>
+
+<p>We also provide a <a
+href="http://lists.andrew.cmu.edu/mailman/listinfo/icfpcontest-discuss">freeform
+discussion list</a> for the contest. Anyone may post and participation
+is completely optional.
+
+</div>
+</td>
+</tr></table>
+</div>
+
+</body>
+</html>
