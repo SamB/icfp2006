@@ -17,7 +17,7 @@ dependencies = [
  "boolean_expression",
  "proc-macro2",
  "quote",
- "syn",
+ "syn 1.0.109",
 ]
 
 [[package]]
@@ -70,6 +70,27 @@ dependencies = [
 ]
 
 [[package]]
+name = "ra-ap-rustc_index"
+version = "0.118.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "57fb055abf547d08c9ceed79f49c91aa6c7e47b8f2826896cd8f9838753afd35"
+dependencies = [
+ "ra-ap-rustc_index_macros",
+ "smallvec",
+]
+
+[[package]]
+name = "ra-ap-rustc_index_macros"
+version = "0.118.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "5610652f9796a407947dea97b2fa10beb673dfc061a7e02916bfb8ca3a858c1e"
+dependencies = [
+ "proc-macro2",
+ "quote",
+ "syn 2.0.104",
+]
+
+[[package]]
 name = "smallvec"
 version = "1.15.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -87,12 +108,24 @@ dependencies = [
 ]
 
 [[package]]
+name = "syn"
+version = "2.0.104"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "17b6f705963418cdb9927482fa304bc562ece2fdd4f616084c50b7023b435a40"
+dependencies = [
+ "proc-macro2",
+ "quote",
+ "unicode-ident",
+]
+
+[[package]]
 name = "um32"
 version = "0.1.0"
 dependencies = [
  "arbitrary-int",
  "bitmatch",
  "byteorder",
+ "ra-ap-rustc_index",
 ]
 
 [[package]]
