@@ -1,5 +1,6 @@
 pub mod ops;
 pub mod memory;
+pub mod regs;
 
 pub fn add(left: usize, right: usize) -> usize {
     left + right

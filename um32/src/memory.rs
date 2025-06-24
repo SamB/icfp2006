@@ -1,4 +1,5 @@
 use std::fs::File;
+use std::ops::{Index, IndexMut};
 use std::os::unix::fs::MetadataExt;
 use std::path::Path;
 use std::io::Result;
@@ -23,7 +24,7 @@ impl Memory {
         }
     }
     pub fn load(&mut self, array0: Array) {
-        self.arrays[0] = Some(array0);
+        self.arrays.insert(0, array0);
     }
     pub fn alloc(&mut self, size: Platter) -> Platter {
         let aid = self.free_indices.iter().next().unwrap_or_else(||self.arrays.next_index());
@@ -34,6 +35,26 @@ impl Memory {
     pub fn free(&mut self, aid: Platter) {
         self.arrays.remove(aid);
         self.free_indices.insert(aid);
+    }
+    pub fn read(&self, aid: Platter, idx: Platter) -> Platter {
+        self.arrays[aid].as_ref().expect("array should exist")[idx]
+    }
+    pub fn write(&mut self, aid: Platter, idx: Platter, val: Platter) {
+        self.arrays[aid].as_mut().expect("array should exist")[idx] = val;
+    }
+}
+
+impl Index<Platter> for Memory {
+    type Output = Array;
+
+    fn index(&self, index: Platter) -> &Self::Output {
+        self.arrays.index(index).as_ref().expect("array should exist")
+    }
+}
+
+impl IndexMut<Platter> for Memory {
+    fn index_mut(&mut self, index: Platter) -> &mut Self::Output {
+        self.arrays.index_mut(index).as_mut().expect("array should exist")
     }
 }
 
