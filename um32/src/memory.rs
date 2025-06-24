@@ -26,14 +26,14 @@ impl Memory {
         self.arrays[0] = Some(array0);
     }
     pub fn alloc(&mut self, size: Platter) -> Platter {
-        let idx = self.free_indices.iter().next().unwrap_or_else(||self.arrays.next_index());
-        self.arrays.insert(idx, IndexVec::from_elem_n(0, size as usize));
-        self.free_indices.remove(idx);
-        idx
+        let aid = self.free_indices.iter().next().unwrap_or_else(||self.arrays.next_index());
+        self.arrays.insert(aid, IndexVec::from_elem_n(0, size as usize));
+        self.free_indices.remove(aid);
+        aid
     }
-    pub fn free(&mut self, idx: Platter) {
-        self.arrays.remove(idx);
-        self.free_indices.insert(idx);
+    pub fn free(&mut self, aid: Platter) {
+        self.arrays.remove(aid);
+        self.free_indices.insert(aid);
     }
 }
 
